@@ -11,7 +11,7 @@ html, input {
     display: flex;
     flex-flow: column wrap;
     align-content: center;
-    background: tomato;
+    background: rgb(71, 243, 255);
     font-weight: bold;
     margin-bottom: 20px;
     }
@@ -49,7 +49,7 @@ html, input {
 
     @media only screen and (max-width: 360px) {
         h1{
-            fornt-size: 40px;
+            font-size: 40px;
             text-align:center;
         }
         label {
